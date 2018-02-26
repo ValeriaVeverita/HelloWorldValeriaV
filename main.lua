@@ -10,7 +10,7 @@
 
 -- Your code here
 
-print ("Hello Valeria!")
+print ("Hello Ve!")
 
 --hide the status bar
 display.setStatusBar(display.HiddenStatusBar)
@@ -24,11 +24,11 @@ local textObject
 local author
 
 -- Create text object at possition x=15 and y=300 with a size 75
-textObject = display.newText (" Hello Valeria",15, 
+textObject = display.newText (" VA",15, 
 	57, nil, 75)
 
 -- Create author at the possition x=30 and y=200 with a size
-authoe = display.newText ("by Valeria Veverita", 250, 200, Georgia, 25)
+authoe = display.newText ("by V", 250, 200, Georgia, 25)
  -- Anchor the textobject from the top left corner
  textObject.anchorX = 0
  textObject. anchorY = 0
